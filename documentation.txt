@@ -1,0 +1,99 @@
+BigData :-
+  It means Every meaning full data is called big data
+
+there are three types in Big Data :-
+  1)Structured
+  2)Un Structured
+  3)Semi Structured
+
+ * Structerd  means The data is stored in relational database
+   RDBMS(Relational DataBase Management System)
+   Structured orgainiges the rows/columns
+
+ * UnStructures means The Data stored huge Amount of data in Data lake
+   and its most useful kind of Data it stored lot of data information 
+   in Data lake
+   in UnStructured Most of the data is UnStructured its almost 80% of data
+   Ex:-
+      Videos,images,audios,server logs,sensor logs, etc..., 
+   
+ * Semi Structured has more flexible format than structured data.
+   it may contain elements of both structured and Unstructred data
+   Ex:-
+      Email,JSON,XML
+
+
+# The characteristics of 7 Vs in Big data :-
+  
+  1) volume :- it means its Defines Data as Big. the amount of volume defines in bigdata and its genarated and collecting
+               which can range of terabyte,petabyte, beyond its range .
+  2) Velocity :- The speed of data. how fast can be it is. and how fast can genarated and processed and accessed .
+  3) veraity  :- varaity of data. its a various type of data can be genarated .
+  4) variabilty :- it keeps changing constantly. its focuses on understanding and interpreting the correct meaning of raw data.
+                   it means its impact on the quality of data
+  5) veracity :- veracity means the quality of data which we received and useful. it can arrise from errors or incompleatnss etc..,
+  6) visualization :- we know in every aspect wee need quality. visualization refers to how to present your data to managemnet for decistion making.
+                      we all know that the data can present in many ways in excel files doc files etc.., irrespective of data it cqn be readble and understandable and accessble
+                      so thats why visualization is impoertant
+  7) value  :- value is decision making in bigdata. value is know as end game in bigdata. once its processing is correct it bigdata can help a user provide if the processing is correct
+
+
+ 
+  # Hadoop:- Hadoop is a open source big data processing framework that provides its flexible solution for storing large amount of data.
+     
+            *the component of hadoop :-                                          hadoop core components are :- Mapreduce
+                                                                                                               HDFS
+													       Yarn
+                                                                    					       common utilities
+
+ 
+* HDFS  :- HDFS means Hadoop Distributed File System.it is a primary data storage unit in bigdata.it is used to distributed Data processing environment.
+           A distributed file system that stores data in a parallel and distributed manner.
+
+* MapReduce :- map reduce is used in functional programming.map reduce is a java based parallel data processing tool design to handle complex data sets in hadoop.
+               so that the users can perform multiple operations such as filter, map and many more
+ mapReduce is a processing and a program modal for distributing computing based. the mapreducing alogorithm contains two important tasks, namely mapreduce .
+               map takes a set of data and converts in into another set of data where individual elements are broken down into key value pairs 
+
+* Yarn(Yet another Resource Negotiator) :- A resource management framework that is responsible for managing the processing resources of a hadoop cluster and ensuring that processing tasks are executed efficiently
+
+*Hive :- hive is a data warehouse infrastructure tool to process structured data in hadoop.
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
+
+
+
